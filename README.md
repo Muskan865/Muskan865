@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Muskan Rehan
+Hi! I'm Muskan Rehan
 =====================================================================================================================================
 
 Computer Science Student
@@ -6,21 +6,31 @@ Computer Science Student
 
 I'm a Computer Science student passionate about algorithms, system design, and building efficient, scalable solutions.
 
-I enjoy solving complex problems, working close to the hardware when needed, and exploring how intelligent systems are built from the ground up.
-
-Currently focused on strengthening my foundations in data structures, low-level systems, and AI-driven applications.
+Interested in low-level computing, backend architecture, and AI-driven applications. Currently exploring distributed systems, deep learning, and mobile development with Flutter.
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [muskanrehan865@gmail.com](mailto:muskanrehan865@gmail.com)
 * 🧠  I'm currently learning Flutter
 
-### Skills
-* Programming (C++, Python, JavaScript)
-* Web Development (HTML, CSS, React)
-* Deep Learning Models
-* Database Design
-* Microsoft Suite
-* Problem Solving
+### Tech Stack
+
+**Languages**  
+C++, Python, JavaScript, SQL
+
+**Frontend**  
+React, Next.js, TailwindCSS
+
+**Backend**  
+Node.js, Express
+
+**Databases**  
+MySQL, MongoDB
+
+**AI / ML**  
+PyTorch, TensorFlow
+
+**Tools**  
+Docker, Linux, Git, Figma
 
 ### Tools and Technologies 
 <p align="left">
