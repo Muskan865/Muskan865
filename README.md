@@ -4,8 +4,6 @@ Hi! I'm Muskan Rehan
 Computer Science Student
 ------------------------
 
-I'm a Computer Science student passionate about algorithms, system design, and building efficient, scalable solutions.
-
 Interested in low-level computing, backend architecture, and AI-driven applications. Currently exploring distributed systems, deep learning, and mobile development with Flutter.
 
 * 🌍  I'm based in Karachi, Pakistan
