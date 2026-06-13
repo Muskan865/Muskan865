@@ -8,27 +8,26 @@ Interested in low-level computing, backend architecture, and AI-driven applicati
 
 * 🌍  I'm based in Karachi, Pakistan
 * ✉️  You can contact me at [muskanrehan865@gmail.com](mailto:muskanrehan865@gmail.com)
-* 🧠  I'm currently learning Flutter
 
 ### Tech Stack
 
 **Languages**  
-C++, Python, JavaScript, SQL
+C++, Python, JavaScript, SQL, Dart
 
 **Frontend**  
-React, Next.js, TailwindCSS
+React, Next.js, TailwindCSS, Flutter
 
 **Backend**  
 Node.js, Express
 
 **Databases**  
-MySQL, MongoDB
+MySQL, MongoDB, MsSQL
 
 **AI / ML**  
-PyTorch, TensorFlow
+PyTorch, TensorFlow, OpenCV
 
 **Tools**  
-Docker, Linux, Git, Figma
+Docker, Linux, Git, Figma, Jira
 
 ### Tools and Technologies 
 <p align="left">
